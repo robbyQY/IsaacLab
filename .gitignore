@@ -63,7 +63,8 @@ _build
 
 # Teleop Recorded Dataset
 /datasets/
-
+visual_wholebody/high-level/data/asset/
+visual_wholebody/third_party
 # Tests
 tests/
 
